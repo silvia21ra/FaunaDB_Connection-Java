@@ -30,7 +30,7 @@ public class FaunaConnection {
 
         FaunaClient connection = null;
 
-        // We configure the log4j to show us the errors in the console
+        // We configure the Log4j to show us the errors in the console
         JDBCAppender appender = new JDBCAppender();
         appender.setLayout(new PatternLayout("%d %-5p %c - %m%n"));
         appender.setThreshold(Level.INFO);
