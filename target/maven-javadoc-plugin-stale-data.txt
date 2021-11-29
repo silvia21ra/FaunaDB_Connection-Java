@@ -1,0 +1,72 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/songo/.m2/repository/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar;C:/Users/songo/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar;C:/Users/songo/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar;C:/Users/songo/.m2/repository/com/faunadb/faunadb-java/5.0.0-beta/faunadb-java-5.0.0-beta.jar;C:/Users/songo/.m2/repository/com/faunadb/faunadb-common/5.0.0-beta/faunadb-common-5.0.0-beta.jar;C:/Users/songo/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar;C:/Users/songo/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar;C:/Users/songo/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar;C:/Users/songo/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.12.1/jackson-datatype-jdk8-2.12.1.jar;C:/Users/songo/.m2/repository/io/dropwizard/metrics/metrics-core/4.1.12.1/metrics-core-4.1.12.1.jar;C:/Users/songo/.m2/repository/com/formdev/flatlaf/1.6.4/flatlaf-1.6.4.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'1.7'
+-sourcepath
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Fauna DB - Java 1.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Fauna DB - Java 1.0 API'
+com.example.Connection
+com.example.Controller
+com.example
+com.example.Model
+com.example.View
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/Connection/FaunaConnection.java'
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/Controller/Controller.java'
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/CRUD_Fauna.java'
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/Model/Person.java'
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/Model/PersonSentence.java'
+'C:/Users/songo/Desktop/Proyecto AED - FaunaDB/src/main/java/com/example/View/MenuFauna.java'
+C:\Users\songo\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar = 1637940769212
+C:\Users\songo\.m2\repository\org\slf4j\slf4j-log4j12\1.7.5\slf4j-log4j12-1.7.5.jar = 1637940769301
+C:\Users\songo\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar = 1637940769330
+C:\Users\songo\.m2\repository\com\faunadb\faunadb-java\5.0.0-beta\faunadb-java-5.0.0-beta.jar = 1637937374407
+C:\Users\songo\.m2\repository\com\faunadb\faunadb-common\5.0.0-beta\faunadb-common-5.0.0-beta.jar = 1637937373459
+C:\Users\songo\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.12.1\jackson-core-2.12.1.jar = 1637937374515
+C:\Users\songo\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.12.1\jackson-databind-2.12.1.jar = 1637937374669
+C:\Users\songo\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.12.1\jackson-annotations-2.12.1.jar = 1637937374544
+C:\Users\songo\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.12.1\jackson-datatype-jdk8-2.12.1.jar = 1637937374549
+C:\Users\songo\.m2\repository\io\dropwizard\metrics\metrics-core\4.1.12.1\metrics-core-4.1.12.1.jar = 1637937374704
+C:\Users\songo\.m2\repository\com\formdev\flatlaf\1.6.4\flatlaf-1.6.4.jar = 1637937374441
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\src\main\java = 1637232236811
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\allclasses-index.html = 1638023979626
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\allpackages-index.html = 1638023979631
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\constant-values.html = 1638023979441
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\element-list = 1638023979349
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\help-doc.html = 1638023979711
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\index-all.html = 1638023979701
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\index.html = 1638023979590
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\javadoc.bat = 1638023956146
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\jquery-ui.overrides.css = 1638023979806
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\member-search-index.js = 1638023979637
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\module-search-index.js = 1638023979631
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\overview-summary.html = 1638023979706
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\overview-tree.html = 1638023979590
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\package-search-index.js = 1638023979637
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\script.js = 1638023979717
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\search.js = 1638023979721
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\serialized-form.html = 1638023979461
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\stylesheet.css = 1638023979716
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\tag-search-index.js = 1638023979637
+C:\Users\songo\Desktop\Proyecto AED - FaunaDB\target\site\apidocs\type-search-index.js = 1638023979637
